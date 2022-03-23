@@ -1,0 +1,11 @@
+# folders
+.vscode/
+ref/
+unused/
+
+# files
+README.txt
+.DS_Store
+.LICENSE.txt
+elements.html
+generic.html
